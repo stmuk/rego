@@ -5,7 +5,7 @@ Rego is an online Go regular expression tester
 
 Inspired by [rubular](http://rubular.com/).
 
-It's currently deployed on Heroku at [http://regoio.herokuapp.com/](http://regoio.herokuapp.com/)
+It can be deployed on Heroku.
 
 ## TODO
 
